@@ -1,16 +1,59 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**elcurrador/elcurrador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 **¡Hola! Soy Rafa**
 
-Here are some ideas to get you started:
+**Desarrollador de Software | Apasionado por la tecnología**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un desarrollador especializado en soluciones prácticas y eficientes. Mi objetivo es crear aplicaciones que no solo funcionen, sino que aporten un valor real a sus usuarios.
+
+---
+### 🛠️ **¿Qué hago ahora?**
+
+Actualmente estoy trabajando en un proyecto de Flutter.
+
+---
+### 🛠️ **Mis habilidades técnicas**
+
+* **Frontend:** HTML, CSS, JavaScript,
+* **Backend:** Node.js, Java, C#, Python
+* **Bases de datos:** MySQL, PostgreSQL, MongoDB
+---
+
+### 🚀 **Proyecto Destacado: EduAvis**
+
+![EduAvis Demo](https://github.com/elcurrador/EduAvis/raw/main/docs/demo.gif)
+
+**EduAvis** es una aplicación destinada a mejorar la gestión educativa mediante el control efectivo de incidencias escolares. Desarrollado con tecnología moderna (WPF, MVVM, EF) y una interfaz amigable y profesional, facilita el trabajo diario de docentes y administradores escolares.
+
+🌟 **Características clave:**
+
+* Gestión sencilla y rápida de incidencias.
+* Diseño intuitivo y responsive.
+* Integración eficiente con bases de datos.
+
+👉 **[Explora el proyecto aquí](https://github.com/elcurrador/EduAvis)**
+
+---
+
+### 📈 **Estadísticas**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcurrador\&layout=compact\&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elcurrador\&show_icons=true\&theme=radical)
+
+
+
+---
+
+### 📫 **Contacto**
+
+Estoy abierto a colaboraciones y proyectos interesantes. ¡No dudes en contactar conmigo!
+
+* 📧 Correo: rafaellopezmoraleda@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/rafa-lopez-moraleda-0892b720a/
+
+---
+
+¡Gracias por visitar mi perfil! 😊
+
+</div>
