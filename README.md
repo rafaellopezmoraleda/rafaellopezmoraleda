@@ -1,50 +1,51 @@
 <div align="center">
 
-### 👋 **¡Hola! Soy Rafa**
+### 👋 ¡Hola! Soy Rafa
 
-**Desarrollador de Software | Apasionado por la tecnología**
+**Desarrollador de Software | Amante de la tecnología**
 
-Soy un desarrollador especializado en soluciones prácticas y eficientes. Mi objetivo es crear aplicaciones que no solo funcionen, sino que aporten un valor real a sus usuarios.
-
----
-### 🛠️ **¿Qué hago ahora?**
-
-Actualmente estoy trabajando en un proyecto de Flutter.
+Me dedico a crear aplicaciones prácticas, fáciles de usar y con un propósito claro. Me gusta que lo que hago no solo funcione, sino que también sea útil para quienes lo utilizan en su día a día.
 
 ---
-### 🛠️ **Mis habilidades técnicas**
 
-* **Frontend:** HTML, CSS, JavaScript,
-* **Backend:** Node.js, Java, C#, Python
-* **Bases de datos:** MySQL, PostgreSQL, MongoDB
+### 🛠️ ¿En qué ando ahora?
+
+Actualmente estoy desarrollando un proyecto con **Flutter**.
+
 ---
 
-### 🚀 **Proyecto Destacado: EduAvis**
+### 🛠️ Tecnologías con las que trabajo
+
+* **Frontend:** HTML, CSS, JavaScript  
+* **Backend:** Node.js, Java, C#, Python  
+* **Bases de datos:** MySQL, PostgreSQL, MongoDB  
+
+---
+
+### 🚀 Proyecto destacado: EduAvis
 
 ![EduAvis Demo](https://github.com/elcurrador/EduAvis/raw/main/docs/demo.gif)
 
-**EduAvis** es una aplicación destinada a mejorar la gestión educativa mediante el control efectivo de incidencias escolares. Desarrollado con tecnología moderna (WPF, MVVM, EF) y una interfaz amigable y profesional, facilita el trabajo diario de docentes y administradores escolares.
+**EduAvis** es una aplicación pensada para mejorar la gestión educativa, poniendo el foco en el control de incidencias escolares. Está desarrollada con **WPF, MVVM y Entity Framework**, cuidando tanto la parte técnica como el diseño para que sea fácil de usar por docentes y administradores.
 
-🌟 **Características clave:**
+🌟 **Lo que ofrece:**
+* Registro y gestión rápida de incidencias.  
+* Interfaz clara, moderna y adaptable.  
+* Conexión directa con bases de datos para un trabajo más ágil.  
 
-* Gestión sencilla y rápida de incidencias.
-* Diseño intuitivo y responsive.
-* Integración eficiente con bases de datos.
-
-👉 **[Explora el proyecto aquí](https://github.com/elcurrador/EduAvis)**
-
+👉 [Ver el proyecto en GitHub](https://github.com/elcurrador/EduAvis)
 
 ---
 
-### 📫 **Contacto**
+### 📫 Contacto
 
-Estoy abierto a colaboraciones y proyectos interesantes. ¡No dudes en contactar conmigo!
+Estoy abierto a colaborar en proyectos y nuevas ideas. Si quieres hablar, aquí me encuentras:  
 
-* 📧 Correo: rafaellopezmoraleda@gmail.com
-* 💼 LinkedIn: https://www.linkedin.com/in/rafa-lopez-moraleda-0892b720a/
+* 📧 Correo: **rafaellopezmoraleda@gmail.com**  
+* 💼 LinkedIn: [Rafa López Moraleda](https://www.linkedin.com/in/rafa-lopez-moraleda-0892b720a/)  
 
 ---
 
-¡Gracias por visitar mi perfil! 😊
+¡Gracias por pasarte por mi perfil! 🚀
 
 </div>
