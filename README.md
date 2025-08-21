@@ -33,15 +33,6 @@ Actualmente estoy trabajando en un proyecto de Flutter.
 
 👉 **[Explora el proyecto aquí](https://github.com/elcurrador/EduAvis)**
 
----
-
-### 📈 **Estadísticas**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcurrador\&layout=compact\&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elcurrador\&show_icons=true\&theme=radical)
-
-
 
 ---
 
